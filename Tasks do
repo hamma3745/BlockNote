@@ -1,0 +1,18 @@
+lsAccompagner le client dans le choix des outils
+Faire le lien entre les équipes de développement et d’exploitation.
+D’assurer le déploiement, la maintenance, l’administration et le support à l'utilisation des solutions proposées.
+Être le réfèrent auprès de l’équipe pour l’ensemble des pratiques d’intégration et de déploiement continue.
+Automatiser les tests :  Squash TM, Sikulix, Selenium, JMeter/Gatling
+Garantir l'intégrité permanente des services et des produits au fil des itérations et incréments.
+
+Collaborer avec les métiers et les équipes de développement dans un environnement Agile ;
+Accompagner la transformation DevOps de nos clients ;
+Mettre en place des solutions ;
+Sécuriser le déploiement continue ;
+Industrialiser les mises en production ;
+
+
+Assurer la conception et le développement d’applications web : API Rest, Micro-services...
+Porter une attention toute particulière à la qualité du code : lint, revues de code, Sonar....
+Réaliser les tests unitaires et d’intégration : JUnit 5, Mockito, Wiremock... tout en respectant la pyramide des tests.
+La culture DevOps est omniprésente dans l’équipe, vous utiliserez Docker très souvent pour élaborer des pipelines de CI/CD optimisées.

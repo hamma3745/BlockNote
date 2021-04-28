@@ -1,0 +1,35 @@
+ AWS (EC2, S3, EKS, API Gateway, CloudFront, Cache, RDS, etc.)
+Grafana, Kibana, Prometheus
+Terraform, Docke
+
+intégration continue (SVN ou GIT, Jenkins, Maven, NPM, Sonar…)
+outils de déploiement et de conteneurisation des applications (Vagrant, Docker, Ansible)
+
+Vous êtes à l’aise avec les dernières features de Java : lambdas, inférence de type, multi-catch…
+Vous maitrisez l’écosystème Java : Spring Boot, Gradle ou Maven….
+
+OS:  Linux or Windows
+Shell scripting:  bash, shell or Powershell)
+Planning:  Jira
+Versioning: GitLab, GitHub
+Continuous Integration:  Terraform, Ansible
+Containers:  Docker et Kubernetes
+Monitoring: Grafana, Prometheus
+Database: PostgreSQL, MySQL
+Web server: Nginx, Apache, Lighttpd
+Script: Python, Shell
+
+Compétences techniques appréciées
+
+
+Outils d’automatisation : Jenkins, Ansible
+Outils de qualité de code : SonarQube
+Outils de gestion de projet : Jira
+Webservices (SOAP, REST)
+
+🛠 Stack technique
+
+Java8
+Microservices/ API REST
+Maven/SonarQube/GitLab
+Environnement AWS /Docker/Kubernetes/Jenkins
